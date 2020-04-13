@@ -3,10 +3,16 @@
     { "nim": 112111121, "nama": "Painem", "kelas" : "TI-37-04", "prodi" : "S1 Teknik Industri", 
       "status_kelulusan" : null, "TAK" : 99,  "EPRT" : 430,  "IPK" : "3.65" },
     { "nim": 112111122, "nama": "Sulis", "kelas" : "TI-37-04", "prodi" : "S1 Teknik Industri", 
-      "status_kelulusan" : null, "TAK" : null,  "EPRT" : null,  "IPK" : "3.99" },
+      "status_kelulusan" : null, "TAK" : 0,  "EPRT" : 24,  "IPK" : "3.99" },
+    { "nim": 112111123, "nama": "Utami", "kelas" : "TI-37-01", "prodi" : "S1 Teknik Industri", 
+      "status_kelulusan" : null, "TAK" : 0,  "EPRT" : 500,  "IPK" : "3.99" },
     { "nim": 116111121, "nama": "Erza", "kelas" : "SI-37-04", "prodi" : "S1 Sistem Informasi", 
       "status_kelulusan" : null, "TAK" : 99,  "EPRT" : 550,  "IPK" : "3.99" },
     { "nim": 116111122, "nama": "Basiro", "kelas" : "SI-37-04", "prodi" : "S1 Sistem Informasi", 
+      "status_kelulusan" : null, "TAK" : 0,  "EPRT" : 140,  "IPK" : "3.56" },
+    { "nim": 116111123, "nama": "Putra", "kelas" : "SI-37-01", "prodi" : "S1 Sistem Informasi", 
+      "status_kelulusan" : null, "TAK" : 99,  "EPRT" : 550,  "IPK" : "3.99" },
+    { "nim": 116111124, "nama": "Alam", "kelas" : "SI-37-INT", "prodi" : "S1 Sistem Informasi", 
       "status_kelulusan" : null, "TAK" : null,  "EPRT" : null,  "IPK" : "3.56" }
   ],
   "comments": [
